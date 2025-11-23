@@ -1,0 +1,7 @@
+name of the software : PsychAI Therapist 
+
+user types : admin - the patient 
+
+the website is an online therapy based on the AI so the patient will ask/write his/her probelm and the model will answer 
+
+
